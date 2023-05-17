@@ -28,7 +28,7 @@ jobs:
 
           GP_TOKEN: ${{ secrets.GP_TOKEN}}
 
-          PUSH_TYPES: 'SMTP'
+          PUSH_TYPES: 'PUSHPLUS'
 
           SERVERCHAN_SEND_KEY: ${{ secrets.SERVERCHAN_SEND_KEY }}
 
